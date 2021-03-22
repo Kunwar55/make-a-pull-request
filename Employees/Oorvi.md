@@ -1,2 +1,0 @@
-#Oorvi
-##Python , Machine Learning
